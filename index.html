@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Advanced Dark To-Do App</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="app-container">
+    <header>
+      <h1>📝 My Tasks</h1>
+      <div class="task-counts">
+        <span id="pendingCount">Pending: 0</span>
+        <span id="completedCount">Completed: 0</span>
+      </div>
+    </header>
+
+    <div class="input-area">
+      <input type="text" id="taskInput" placeholder="Add a new task..." />
+      <select id="priority">
+        <option value="low">🟢 Low</option>
+        <option value="medium">🟡 Medium</option>
+        <option value="high">🔴 High</option>
+      </select>
+      <input type="date" id="dueDate" />
+      <button id="addBtn">Add Task</button>
+    </div>
+
+    <div class="filter-bar">
+      <button class="filter active" data-filter="all">All</button>
+      <button class="filter" data-filter="pending">Pending</button>
+      <button class="filter" data-filter="completed">Completed</button>
+      <button id="clearCompleted">Clear Completed</button>
+    </div>
+
+    <ul id="taskList"></ul>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

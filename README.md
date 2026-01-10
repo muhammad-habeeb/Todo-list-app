@@ -51,7 +51,7 @@ You can run this project locally:
 
 1. Clone the repository
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://muhammad-habeeb.github.io/Todo-list-app/
 
 
 2. Open `index.html` in your browser  

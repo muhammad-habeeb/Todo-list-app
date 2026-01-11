@@ -76,7 +76,7 @@ git clone https://muhammad-habeeb.github.io/Todo-list-app/
 
 ## 👨‍💻 Author
 
-**Habeeb**  
+**Muhammad Habeeb S**  
 BSc Computer Science Student  
 
 ---

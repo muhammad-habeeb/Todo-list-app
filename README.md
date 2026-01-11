@@ -53,10 +53,6 @@ You can run this project locally:
 
 git clone https://muhammad-habeeb.github.io/Todo-list-app/
 
-
-2. Open `index.html` in your browser  
-(No server required)
-
 ---
 
 ## 📸 Screenshots

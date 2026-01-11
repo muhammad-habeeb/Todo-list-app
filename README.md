@@ -60,6 +60,7 @@ git clone https://muhammad-habeeb.github.io/Todo-list-app/
 ---
 
 ## 📸 Screenshots
+<img width="1600" height="900" alt="Screenshot 2026-01-11 064051" src="https://github.com/user-attachments/assets/db17cfe4-5286-4ec8-aa07-9ac2473cf254" />
 
 
 ---
